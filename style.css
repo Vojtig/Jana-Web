@@ -1,0 +1,39 @@
+.headbg {
+    display: block;
+    max-block-size: 100;
+}
+
+body {
+    background-image: url("pic/woman-567021.jpg") !important;
+    background-size: cover;
+}
+
+.main-content {
+    background-color: rgba(245, 245, 219, .4);
+    text-align: center;
+    padding: 10%;
+    margin: 15%;
+
+}
+
+.socials {
+    text-align: right;
+}
+
+img {
+    width: 5%;
+    height: 5%;
+}
+
+hr {
+    color: rgb(133, 83, 27);
+    border: 1px solid rgba(186, 141, 101);
+}
+
+.tel {
+    text-align: left;
+}
+
+hr {
+    width: 106px;
+}
